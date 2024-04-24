@@ -1,0 +1,85 @@
+html{
+    background-color: white;
+}
+
+header{
+    padding: 1.5em 0 2em 0;
+    border-bottom: 3px solid #931420;
+    background-image: linear-gradient(30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
+}
+
+heading img{
+    padding: 0 30px;
+    float: left;
+}
+
+main{
+    float: right;
+    width: 525px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-bottom: 3px solid #931420;
+    border-top: 3px solid #931420;
+}
+
+header h1{
+    border-bottom: 3px solid #931420;
+    border-top: 3px solid #931420;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: 0 auto;  
+    border: 3px solid #931420 ;
+    background-color: #fffded; 
+}
+.H2{
+    font-size: 170%;
+    color: #800000;
+}
+
+.H3{
+    font-size: 130%;
+    font-style: italic;
+}
+
+.guest{
+    border: 4px double #931420;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #faad50;
+}
+
+h1{
+    font-size: 150%;
+}
+
+h2{
+    font-size: 130%;
+    color: #800000;
+}
+
+h3{
+    font-size: 105%;
+}
+
+footer{
+    background-color: #931420;
+    clear: both;
+}
+
+#foot{
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 1em 0;
+    border-bottom: 3px solid #931420;
+    border-top: 3px solid #931420;
+}
+
+.shadow{
+    text-shadow: 1.5px 1.5px 1.5px  #800000;
+}
+a:focus, a:hover{
+    font-style: italics;
+}
